@@ -1,2 +1,2 @@
 tasks:
-    - command: python3 main.py
+    - command: python3 simpleGame.py
